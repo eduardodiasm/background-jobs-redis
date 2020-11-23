@@ -11,7 +11,7 @@ export default {
 
     // Add mail registration into the queue.
 
-    await Queue.add({ user })
+    await Queue.add('registrationMail', { user })
 
     return res.json(user)
 
