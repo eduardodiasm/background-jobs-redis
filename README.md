@@ -9,7 +9,7 @@
 
 </ol>
 
-<h4>Should create a .env file at the source, with the following attributes:</h4>
+<h4>To run the project, you should create a .env file at the source, with the following attributes:</h4>
 
 ```env
 MAIL_HOST = 'yourHost'
