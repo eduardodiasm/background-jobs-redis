@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/eduardodiasm/background-jobs-redis/issues"
   },
-  "homepage": "https://github.com/eduardodiasm/background-jobs-redis#readme"
+  "homepage": "https://github.com/eduardodiasm/background-jobs-redis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
