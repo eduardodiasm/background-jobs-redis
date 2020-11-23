@@ -1,5 +1,5 @@
 <h3>Techs:</h3>
-<ul>
+<ol>
 
 <li>NodeJS</li>
 <li>Express</li>
@@ -7,11 +7,9 @@
 <li>Bull</li>
 <li>NodeMailer</li>
 
-</ul>
+</ol>
 
-<h4>Should create a .env file at the source.</h4>
-
-<p>.env e.g:</p>
+<h4>Should create a .env file at the source, with the following attributes:</h4>
 
 ```env
 MAIL_HOST = 'yourHost'
