@@ -1,3 +1,5 @@
+import Queue from '../lib/queue'
+
 export default {
 
   async store (req, res) {
@@ -8,6 +10,8 @@ export default {
     }
 
     // Add mail registration into the queue.
+
+    await Queue.add({ user })
 
     return res.json(user)
 
