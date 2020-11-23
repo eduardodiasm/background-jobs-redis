@@ -1,5 +1,5 @@
 <h3>Techs:</h3>
-<ol>
+<ul>
 
 <li>NodeJS</li>
 <li>Express</li>
@@ -7,7 +7,7 @@
 <li>Bull</li>
 <li>NodeMailer</li>
 
-</ol>
+</ul>
 
 <h4>Should create a .env file at the source.</h4>
 
