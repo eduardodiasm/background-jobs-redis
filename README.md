@@ -1,6 +1,6 @@
-Should create a .env file at the source.
+<h4>Should create a .env file at the source.</h4>
 
-.env e.g:
+<p>.env e.g:</p>
 
 ```env
 MAIL_HOST = 'yourHost'
@@ -11,3 +11,6 @@ MAIL_PASS = 'password'
 REDIS_HOST = 'yourHost'
 REDIS_PORT = 6379
 ```
+
+<h4>I also applied the bull-board middleware on the server:</h4>
+<img src""></img>
