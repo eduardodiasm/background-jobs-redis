@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/eduardodiasm/background-jobs-redis#readme",
   "dependencies": {
+    "bull": "^3.19.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nodemailer": "^6.4.16"
