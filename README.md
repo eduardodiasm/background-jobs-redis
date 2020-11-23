@@ -1,4 +1,4 @@
-<h3>Techs:</h3>
+<h3>Technologies used:</h3>
 <ol>
 
 <li>NodeJS</li>
