@@ -12,5 +12,10 @@ REDIS_HOST = 'yourHost'
 REDIS_PORT = 6379
 ```
 
-<h4>I also applied the bull-board middleware on the server:</h4>
-<img src""></img>
+<h4 style="margin-bottom: 10px">I also applied the bull-board middleware on the server:</h4>
+
+```
+GET - /admin/queues
+```
+
+<img src="./assets/board.PNG"></img>
